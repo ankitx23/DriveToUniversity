@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Navigation</string>
+    <string name="splash_text1" translatable="false">This apps makes it easier for you to drive from where you are to Montclair State University</string>
+    <string name="splash_text2" translatable="false">Next, select "Drive to MSU" by tapping on it.".</string>
+    <string name="splash_text3" translatable="false">When you click it, Google Maps will open and your current position will be used to begin the navigation..</string>
+    <string name="home_text" translatable="false">To browse to Montclair State University, use this button.</string>
+    <string name="nav_text" translatable="false">Drive to University</string>
+</resources>
